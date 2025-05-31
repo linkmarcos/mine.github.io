@@ -1,2 +1,2 @@
-# mine.github.io
+# linkmarcos.github.com/mine.github.io
 intento de wiki mine
